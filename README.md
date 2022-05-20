@@ -1,8 +1,7 @@
 # Bikcraft
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)   
 
-<img src="https://github.com/luizfelipe9627/bikcraft/blob/master/assets/videos/bikcraft.gif" alt="Site">
-
+<img src="https://github.com/luizfelipe9627/bikcraft/blob/master/assets/video/bikcraft.gif" alt="Site">
 
 ## 📄 Descrição
 Bikcraft é um site de venda de bicicletas.
