@@ -7,7 +7,7 @@
 ## 📄 Descrição
 Bikcraft é um site de venda de bicicletas.
 
-### <a href="https://www.origamid.com/">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/bikcraft">Acesse o site</a>
 
 ## 📑 Observação
 Site criado a partir de um exericio feito na Origamid.
