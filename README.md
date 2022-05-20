@@ -12,7 +12,7 @@ Bikcraft é um site de venda de bicicletas.
 Site criado a partir de um exercício feito na Origamid.
 
 ## 🔍 Layout 
-Este layout foi criado por André Rafael no curso realizado pela Origamid.
+Este layout foi criado por André Rafael no curso realizado através da plataforma Origamid.
 
 ### <a href="https://www.origamid.com/">Acessar o site</a>
 
