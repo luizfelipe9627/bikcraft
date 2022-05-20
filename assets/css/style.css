@@ -167,7 +167,7 @@ footer {
   
   .subtitulo {
     text-align: center;
-    font-size: auto;
+    font-size: 3rem;
   }
 
   .introducao::before {
@@ -183,5 +183,11 @@ footer {
   .introducao {
     text-align: left;
     justify-items: start;
+  }
+}
+
+@media (max-width: 400px) {
+  .subtitulo {
+    font-size: 2rem;
   }
 }
