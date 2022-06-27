@@ -1,0 +1,38 @@
+header {
+  display: grid;
+  justify-items: center;
+  gap: 2.75rem;
+}
+
+nav li {
+  list-style: none;
+}
+
+nav ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+nav a {
+  display: block;
+  text-align: center;
+  align-self: center;
+  background: #ffffff;
+  padding: 1rem 2rem;
+  border-radius: 4px;
+  color: #000000;
+  text-transform: uppercase;
+  border: 2px solid #fff;
+}
+
+nav ul a:hover {
+  border-color: #e21;
+}
+
+@media (max-width: 1000px) {
+  header {
+    gap: 2rem;
+  }
+}
