@@ -3,10 +3,11 @@ article {
   grid-template-columns: 1fr 1fr;
   max-width: 62.5rem;
   position: relative;
+  color: var(--cor-texto);
 }
 
 .introducao {
-  background: #fff;
+  background: var(--cor-fundo2);
   padding: 2.5rem;
   text-align: right;
   position: relative;
@@ -24,7 +25,7 @@ article {
   content: "";
   width: 3.75rem;
   height: 0.25rem;
-  background: #e21;
+  background: var(--cor-fundo1);
   position: absolute;
   top: 30px;
   right: -30px;
@@ -39,29 +40,29 @@ article {
 .botao {
   width: 80px;
   text-align: center;
-  background: #e21;
-  color: #fff;
+  background: var(--cor-primaria1);
+  color: #FFFFFF;
   padding: 1rem 2rem;
   border-radius: 0.25rem;
   text-transform: uppercase;
 }
 
 .botao:hover {
-  background-color: #900;
+  background-color: var(--cor-primaria2);;
 }
 
 .subtitulo {
-  background-image: url("../image/onda.svg");
+  background-image: var(--cor-onda);
   font-size: 4rem;
   text-transform: uppercase;
-  color: rgba(0, 0, 0, 0.2);
+  color: var(--cor-subtitulo);
   text-align: right;
   padding: 2.5rem;
   align-self: center;
 }
 
 .vantagens {
-  background: #fff;
+  background: var(--cor-fundo2);
   padding: 2.5rem;
 }
 
@@ -73,11 +74,11 @@ article {
 }
 
 .vantagens-item:nth-child(odd) {
-  background-color: #f7f7f7;
+  background-color: var(--cor-fundo1);;
 }
 
 .vantagens-item:hover {
-  border-left: 0.2rem solid #e21;
+  border-left: 0.2rem solid var(--cor-primaria1);
 }
 
 .vantagens-item p {

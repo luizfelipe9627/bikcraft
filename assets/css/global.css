@@ -5,7 +5,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  background: #f7f7f7;
+  background: var(--cor-fundo1);
   display: grid;
   gap: 2.75rem;
   justify-items: center;

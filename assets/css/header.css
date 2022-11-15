@@ -19,16 +19,16 @@ nav a {
   display: block;
   text-align: center;
   align-self: center;
-  background: #ffffff;
+  background: var(--cor-fundo2);
   padding: 1rem 2rem;
   border-radius: 4px;
-  color: #000000;
+  color: var(--cor-texto);
   text-transform: uppercase;
-  border: 2px solid #fff;
+  border: 2px solid var(--cor-fundo2);
 }
 
 nav ul a:hover {
-  border-color: #e21;
+  border-color: var(--cor-primaria1);
 }
 
 @media (max-width: 1000px) {
