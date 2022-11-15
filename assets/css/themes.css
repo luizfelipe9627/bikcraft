@@ -1,0 +1,19 @@
+:root {
+  --cor-primaria1: #e21;
+  --cor-primaria2: #900;
+  --cor-fundo1: #F7F7F7;
+  --cor-fundo2: #FFFFFF;
+  --cor-texto: #000000;
+  --cor-subtitulo: rgba(0, 0, 0, 0.2);
+  --cor-onda: url('../image/onda-clara.svg')
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cor-fundo1: #111;
+    --cor-fundo2: #000;
+    --cor-texto: #FFFFFF;
+    --cor-subtitulo: rgba(255, 255, 255, 0.2);
+    --cor-onda: url('../image/onda-escura.svg')
+  }
+}
